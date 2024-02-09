@@ -1,5 +1,5 @@
 # industrial-Attachments
--Kenchip Software Systems - Nakuru
+- Kenchip Software Systems - Nakuru
 Address
 217 , Nakuru, Kenya
 View Map
@@ -12,7 +12,7 @@ Establishment year 2009
 Employees 1-5
 Company manager Martin Kariuki
 
--Com Twenty One Ltd - Nakuru
+- Com Twenty One Ltd - Nakuru
 Address
 6th Floor, Tower B, Valley View Office Park, City Park Drive off Limuru Road Nairob, Nairobi, Nakuru, Kenya
 View Map
